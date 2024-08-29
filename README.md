@@ -6,6 +6,6 @@ Favorite Candy: Candy Corn
 
 
 
-Name: Rendong 
-Favorite Ice Cream: Rum Raisin  
+Name: Rendong
+Favorite Ice Cream: Mango 
 Favorite Candy: Candy Corn 
